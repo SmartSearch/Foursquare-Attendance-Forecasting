@@ -1,2 +1,2 @@
-Foursquare-Attendance-Forecasting
+FoursquareAttendanceForecasting
 =================================
