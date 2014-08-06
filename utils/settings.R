@@ -25,7 +25,7 @@
 
 suppressPackageStartupMessages(library(jsonlite,quietly=T,verbose=F))
 
-settingsPath <- "/users/staff/romain/workspace/FoursquareAttendanceCrawler/etc/settings.json"
+settingsPath <- "/path/to/attendance/crawl/folder/etc/settings.json"
 
 loadedJSON <- NULL
 
