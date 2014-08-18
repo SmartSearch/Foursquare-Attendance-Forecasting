@@ -24,4 +24,4 @@ The forecasting is executed as follows:
 ```
 
 Note that it can take a lot of time depending on your machine and the number of cores available.
-*Currently it uses 8 cores, you might want to change this number (`mc.cores` property) if your machine have less than 8 cores.*
+**Currently it uses 8 cores, you might want to change this number (`mc.cores` property) if your machine have less than 8 cores.**
